@@ -1,3 +1,3 @@
 Free Advice
 
-https://surendharhi5.github.io/Promise-Task2/
+Output URL : https://promise-api-task2-surendhar-cs-projects.vercel.app/
